@@ -20,6 +20,7 @@ so in the backend you will recieve requests for funding all the time and you nee
 in this build we wont be deploying any contracts so we can ignore packages/hardhat
 
 
+use qrcode react lib to display QR
 
 let's set it up so there is a qr code on this main page that points to the url of whatever the page is so other people can scan it to get there
 
